@@ -1,5 +1,5 @@
 body {
-  font-family: sans-serif;
+  font-family: Arial;
   margin: 0;
   padding: 0;
 }
@@ -87,7 +87,7 @@ li {
 }
 
 .errormessage {
-  font-family: monospace;
+  font-family: Arial;
   margin-top: .5em;
   color: rgb(167, 5, 5);
 }
@@ -102,7 +102,7 @@ li {
 }
 
 #json {
-  font-family: monospace;
+  font-family: Arial;
   font-size: 1.1em;
   white-space: pre-wrap;
   margin: .5em;
@@ -124,6 +124,6 @@ h1 {
 }
 
 .callback {
-  font-family: monospace;
+  font-family: Arial;
   color: #A52A2A;
 }
